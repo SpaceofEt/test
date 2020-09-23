@@ -22,4 +22,4 @@ git commands:
 *git branch //显示当前分支
 *git branch dev //创建分支
 *git checkout dev //切换分支
-？
+//关于切换分支：切换后，对应库的文件也会改变；master对应一个文件夹，dev对应一个文件夹
