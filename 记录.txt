@@ -1,0 +1,9 @@
+git commands:
+*ssh -T git@github.com
+*git remote -global user.name"gitname"
+*git remote -global user.email"gitemail"
+*cd /D
+*git clone remote url/ssh(eg:git@github.com:name/git)
+* LS
+*git add "filename"
+*git commit -m"ts"
