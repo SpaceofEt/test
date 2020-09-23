@@ -16,3 +16,9 @@ git commands:
 *git remote add origing https://github.com/name/p.git  //远程库
 *git push -u origin master//将本地库内容推送到远程
 *git push origin master//上面推送成功后，本地和远程同步，以后更新本地库，提交后，通过git push 即可将新的推送到远程
+
+//切换分支（默认只有master，即为主分支,每次修改更新会有一条线，时间线，master）
+*git checkout -b dev//创建并切换到dev分支
+*git branch //显示当前分支
+*git branch dev //创建分支
+*git checkout dev //切换分支
